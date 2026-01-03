@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { supabase } from './supabase';
+import { supabase } from './supabse';
 import { LineChart, Line, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid } from 'recharts';
 
 export default function App() {
